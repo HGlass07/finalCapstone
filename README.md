@@ -40,6 +40,7 @@ ii. User is asked to specify the interest rate
 iii. User is asked to specify the number of months they plan to take in repaying the loan
 iv. From this information the total amount to pay each month is calculated 
 
-Credits
+Credits:
+
 Henry Glasspool
 

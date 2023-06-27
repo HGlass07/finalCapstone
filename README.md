@@ -12,6 +12,8 @@ Description:
 
 This project focusses on a program that allows an individual to calculate either their interest accrued on an investment, or repayments needed on a home loan.
 
+-----
+
 Installation:
 
 This program was created using virtual studio code, and runs on Python v3.11.3.
@@ -21,6 +23,8 @@ This program was created using virtual studio code, and runs on Python v3.11.3.
 3. Open the file with a program of your choice - virtual studio code recommended
 4. Ensure the Python 'math' module is installed on your version of Python
 5. Run the code and follow the instructions
+
+----------
 
 Usage:
 
@@ -40,6 +44,7 @@ If calculating repayments:
 3. User is asked to specify the number of months they plan to take in repaying the loan
 4. From this information the total amount to pay each month is calculated 
 
+-----------
 Credits:
 
 Henry Glasspool

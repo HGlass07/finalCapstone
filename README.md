@@ -28,17 +28,17 @@ This program can be used to either calculate interest on an investment, or repay
 The user will first be prompted to state which function they wish to use.
 
 If calculating interest:
-i. User is asked to confirm their initial deposit amount
-ii. User is asked to specify the interest rate
-iii. User is asked to specify the number of years they plan on investing for
-iv. User is asked to clarify whether they are using compound or simple interest
-v. From this information the total amount after the investment period is calculated 
+1. User is asked to confirm their initial deposit amount
+2. User is asked to specify the interest rate
+3. User is asked to specify the number of years they plan on investing for
+4. User is asked to clarify whether they are using compound or simple interest
+5. From this information the total amount after the investment period is calculated 
 
 If calculating repayments:
-i. User is asked to specify the value of their property
-ii. User is asked to specify the interest rate
-iii. User is asked to specify the number of months they plan to take in repaying the loan
-iv. From this information the total amount to pay each month is calculated 
+1. User is asked to specify the value of their property
+2. User is asked to specify the interest rate
+3. User is asked to specify the number of months they plan to take in repaying the loan
+4. From this information the total amount to pay each month is calculated 
 
 Credits:
 
